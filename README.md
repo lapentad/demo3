@@ -3,9 +3,9 @@
 ## Indice
 [1. Introduzione](#1introduzione)
 
-[2. Modello concettuale](2modello-concettuale)
+[2. Modello concettuale](#2modello-concettuale)
 
-[3. Requisiti specifici](3requisiti-sprecifici)
+[3. Requisiti specifici](#3requisiti-specifici)
 
 [4. Architettura](#4architettura)
 
