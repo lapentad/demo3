@@ -1,28 +1,36 @@
 # SNA4Slack gruppo Dijkstra
 
 ## Indice
-1. Introduzione
-2. Modello concettuale
-3. Requisiti specifici
-4. Architettura
-  - Stile architetturale adottato
-  - Diagramma dei package
-  - Diagramma dei componenti
-  - Commentare le decisioni prese
-5. System Design
-  - Per ogni requisito funzionale: diagramma delle classi e diagramma di sequenza
-  - Menzionare l'eventuale applicazione di design pattern
-  - Giustificare le segnalazioni rimaste aperte di PMD
-  - Commentare le decisioni prese
-6. Riepilogo del test
-  - Riportare la tabella riassuntiva di coveralls (o jacoco), con dati sul numero
+[1. Introduzione](#1introduzione)
+
+[2. Modello concettuale](2modello-concettuale)
+
+[3. Requisiti specifici](3requisiti-sprecifici)
+
+[4. Architettura](#4architettura)
+- Stile architetturale adottato
+- Diagramma dei package
+- Diagramma dei componenti
+- Commentare le decisioni prese
+
+[5. System Design](#5system-design)
+- Per ogni requisito funzionale: diagramma delle classi e diagramma di sequenza
+- Menzionare l'eventuale applicazione di design pattern
+- Giustificare le segnalazioni rimaste aperte di PMD
+- Commentare le decisioni prese
+
+[6. Riepilogo del test](#6riepilogo-test)
+- Riportare la tabella riassuntiva di coveralls (o jacoco), con dati sul numero
    dei casi di test e copertura del codice
-7. Manuale utente
-8. Processo di sviluppo e organizzazione del lavoro
-9. Analisi retrospettiva
-  - Cosa ha funzionato bene e rifarei in futuro
-  - Cosa non ha funzionato bene e non rifarei in futuro
-  - Cosa farei di nuovo
+
+[7. Manuale utente](#7manuale-utente)
+
+[8. Processo di sviluppo e organizzazione del lavoro](#8processo-di-sviluppo-e-organizzazione-del-lavoro)
+
+[9. Analisi retrospettiva](#9analisi-retrospettiva)
+   - Cosa ha funzionato bene e rifarei in futuro
+   - Cosa non ha funzionato bene e non rifarei in futuro
+   - Cosa farei di nuovo
 
 
 ## 1.Introduzione
