@@ -94,7 +94,7 @@ paths:
               schema:
                 type: array
                 items:
-                  $ref: '#/components/schemas/ParticipantInformation'
+                  $ref: 'https://raw.githubusercontent.com/onap/policy-clamp/master/runtime-acm/src/main/resources/openapi/examples/getMultiParticipantResponse.json'
               example:
                 jsonObject:
                   externalValue: 'https://raw.githubusercontent.com/onap/policy-clamp/master/runtime-acm/src/main/resources/openapi/examples/getMultiParticipantResponse.json'
@@ -102,7 +102,7 @@ paths:
               schema:
                 type: array
                 items:
-                  $ref: '#/components/schemas/ParticipantInformation'
+                  $ref: 'https://raw.githubusercontent.com/onap/policy-clamp/master/runtime-acm/src/main/resources/openapi/examples/getMultiParticipantResponse.yaml'
               example:
                 jsonObject:
                   externalValue: 'https://raw.githubusercontent.com/onap/policy-clamp/master/runtime-acm/src/main/resources/openapi/examples/getMultiParticipantResponse.yaml'
